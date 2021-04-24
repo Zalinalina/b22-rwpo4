@@ -1,0 +1,3 @@
+I just created emty remote repository from GitHub account and clone this repository by cloking on the plus icone
+
+And clone this repository by cloking on Set up in Desctop click clone. it cloned out=r remote to local
